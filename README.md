@@ -1,4 +1,4 @@
-# AICAS - Artificially Intelligent COllision Avoidance System 
+# AICAS - Artificially Intelligent Collision Avoidance System 
 
 Official repository of AICAS
 
