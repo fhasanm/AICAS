@@ -24,5 +24,5 @@ conda activate sit
 - GCN.py contains the Graph Convolution Network for self-intention prediction.
 - models.py contains the Neighbour Trajectory Prediction model
 - feeder.py contains code to preprocess Brain4Cars, BLVD and NGSIM dataset
-- main.py contains the script to train-val-test Neighbour Trajectory Prediction (currently preprocessing script for GCN not ready yet)
+- main.py contains the script to train-val-test Neighbour Trajectory Prediction (currently implementation script for GCN not ready yet)
 
