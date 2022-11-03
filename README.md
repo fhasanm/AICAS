@@ -11,12 +11,12 @@ https://docs.anaconda.com/anaconda/install/linux/
 
 ### Install Required Packages
 ```sh
-conda env create -f environment.yml
+conda create --name myenv --file env-spec.txt
 ```
 
 ### Activate Environment
 ```sh
-conda activate sit
+conda activate myenv
 ```
 
 ### Walkthrough
