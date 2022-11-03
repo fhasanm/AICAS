@@ -28,7 +28,7 @@ conda activate myenv
 
 ## RMSE Results
 
-The traajectory prediction model's state-of-the-art performance
+The trajectory prediction model's state-of-the-art performance
 
 
 ![](Assets/310173046_505640824768652_4065082333115673789_n.png)
